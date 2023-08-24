@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @sihamx
 - 👀 I’m interested in .Web development..
 - 🌱 I’m currently learning ...frontend web development
-- 💞️ I’m looking to collaborate on .github..
+  
 - 📫 How to reach me ...
 
 <!---
